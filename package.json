@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
   "author": "Moobarrac",
-  "description": "A project to master node and express js"
+  "description": "A project to master node and express js",
+  "keywords": ["projects", "node", "express", "practice"]
 }
